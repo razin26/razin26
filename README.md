@@ -2,9 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on company
-- 📫 How to reach me just call me 
 - 😄 Pronouns: a man
-- ⚡ Fun fact: iam lazy person
 
 
 <!---
